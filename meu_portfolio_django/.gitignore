@@ -1,0 +1,5 @@
+# Ignorar ambiente virtual e arquivos temporários
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
